@@ -1,0 +1,12 @@
+.heading
+{
+    box-shadow: gray;
+    margin: 3px;
+}
+
+.rodapé
+{
+    color: aqua;
+    position: fixed;
+    bottom: 10px;
+}
